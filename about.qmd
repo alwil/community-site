@@ -2,6 +2,33 @@
 title: about
 ---
 
-We are a programming cafe based in some university, part of a larger [network of programming cafes](https://github.com/code-cafes-nl).
+The [`djehuty`](https://github.com/4TUResearchData/djehuty) community brings together users, contributors, developers, research data professionals , and everyone interested in the future of the `djehuty` platform.
 
-Join us by...
+Our goal is to create an open space for collaboration, knowledge sharing, and discussion around `djehuty`'s development and use. Through community meetings, discussions, proposals, and shared experiences, we work together to improve the platform and support the research data community.
+
+Whether you are reporting issues, proposing new ideas, contributing code, improving documentation, or simply interested in learning more, you are welcome to participate.
+
+## Code of Conduct
+In our communication we adhere to [Code of Conduct](https://github.com/4TUResearchData/djehuty?tab=coc-ov-file).
+
+## Community Hour
+We meet monthly to discuss recent developments, upcoming work, community contributions, feature requests, and other topics relevant to the `djehuty` project. Whether you are a user, contributor, repository administrator, or simply curious about the project, you are welcome to join.
+
+::: callout
+we meet every **last Wednesday of the month, at 3PM-4PM CEST**
+
+Please have a look at the [calendar](calendar/index.qmd), for more details.
+:::
+
+## Community Resources
+- [GitHub repository](https://github.com/4TUResearchData/djehuty)
+- [Documentation](https://djehuty.4tu.nl/)
+- [Discussions](https://github.com/4TUResearchData/djehuty/discussions)
+- [Issue tracker](https://github.com/4TUResearchData/djehuty/issues)
+- [Release Roadmap](https://github.com/4TUResearchData/djehuty/milestones)
+- [Code of Conduct](https://github.com/4TUResearchData/djehuty?tab=coc-ov-file)
+- [Community repo](https://github.com/4TUResearchData/community)
+- [Meetings Schedule]()
+- [Past meeting recordings]<link>
+- [Meeting Notes Github]<link>
+

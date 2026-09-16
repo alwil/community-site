@@ -1,7 +1,7 @@
 project: 
   type: website
 
-title: "[Insert name of programming cafe]" # change me
+title: djehuty community website
 theme: code-cafe.scss
 
 website: 
@@ -9,7 +9,7 @@ website:
     logo: assets/img/logo.png
     right: 
       - href: about.qmd
-      - href: meetups/index.qmd
+      - href: calendar/index.qmd
       - icon: github
-        aria-label: Link to Code Cafe NL GitHub organisation
-        href: https://github.com/code-cafes-nl # change me
+        aria-label: Link to djehuty community website
+        href: https://github.com/alwil/community-site
