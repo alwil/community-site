@@ -1,33 +1,50 @@
 /*-- scss:defaults --*/
 
 // typeface
-@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&display=swap');
+@font-face {
+    font-family: "Aspekta";
+    src: url("/fonts/Aspekta-300.woff2") format("woff2");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: "Space Grotesk";
+    src: url("/fonts/SpaceGrotesk-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
 @import "https://www.nerdfonts.com/assets/css/webfont.css";
 
 // colours
 $white: #fff;
 $black: #000;
-$primary: #521646;
-$secondary: #fcfe74;
+$primary: #f29100;
+$secondary: #3c3c3c;
+$blue: #b9dbef;
 
-$body-bg: $primary;
-$body-color: $white;
+$body-bg: $white;
+$body-color: $secondary;
 $navbar-fg: $body-color;
-$navbar-bg: $body-bg;
-$link-color: $secondary;
+$navbar-bg: $primary;
+$link-color: $blue;
 
-$font-family-sans-serif: "Atkinson Hyperlegible Mono", sans-serif;
+$font-family-base: "Aspekta", sans-serif;
+$font-family-heading: "Space Grotesk", sans-serif;
 
 /*-- scss:rules --*/
 
 h1, h2, h3, h4 {
-    color: $secondary
+    color: $primary
 }
 
 .callout {
-    border-left-color: $secondary !important;
+    border-left-color: $primary !important;
 }
 
 .btn {
-    border: 2pt solid $secondary;
+    border: 2pt solid $primary;
 }
