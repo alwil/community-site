@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTART:20250508T103000
-DTEND:20250508T120000
+DTSTART:20261028T150000
+DTEND:20250508T160000
 UID:ical-10f8e0a7-3dbb-43a4-9067-0e67cfae628d
-SUMMARY:Programming Cafe for this month
-LOCATION:Some cool place
-DESCRIPTION:Some cool person will present some cool thing.
+SUMMARY:djehuty Community Hour
+LOCATION:online
+DESCRIPTION:Join the djehuty Community Hour: https://meet.google.com/zbt-mvxe-feq
 END:VEVENT
 END:VCALENDAR
