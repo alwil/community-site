@@ -1,4 +1,6 @@
 ---
+website:
+  favicon: logo.png
 about: 
   id: hero
   template: solana
