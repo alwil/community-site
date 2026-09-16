@@ -3,4 +3,12 @@ title: Calendar
 listing: 
   type: table
   contents: events.yaml
+  fields: [title, description, date, time, path, filename]
+  field-display-names:
+    date: Date
+    time: Time
+    title: Title
+    description: Description
+    path: Join
+    filename: Add to Calendar
 ---

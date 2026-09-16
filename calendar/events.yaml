@@ -4,12 +4,12 @@
   location: online
   date:  2026-10-28
   time:  15:00 CEST
-  filename: example-event.ics
-  path: "meet.google.com/zbt-mvxe-feq"
+  filename: /assets/ics/example-event.ics
+  path: "https://meet.google.com/zbt-mvxe-feq"
 - title: djehuty Community Hour
   description: Some tips and tricks for using git.
   location: online
   date:  2026-11-25
-  time:  TBD
-  filename: example-event.ics
-  path: "meet.google.com/zbt-mvxe-feq"
+  time:  15:00 CEST
+  filename: /assets/ics/example-event.ics
+  path: "https://meet.google.com/zbt-mvxe-feq"
