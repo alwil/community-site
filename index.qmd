@@ -17,8 +17,6 @@ listing:
 ---
 
 ::: {#hero}
-## Welcome to the `djehuty` Community.
-
 A space for users, contributors, and stakeholders to connect, share ideas, discuss upcoming work, and help shape the future of [`djehuty`](https://github.com/4TUResearchData/djehuty). Whether you're exploring the platform, contributing code, or providing feedback, you're welcome to join the conversation.
 
 **Get involved**: Join our Community Hours, participate in [discussions](https://github.com/4TUResearchData/djehuty/discussions), or explore ways to contribute.

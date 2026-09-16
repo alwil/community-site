@@ -46,5 +46,15 @@ h1, h2, h3, h4 {
 }
 
 .btn {
-    border: 2pt solid $blue;
+  background-color: $blue;
+  border: 2pt solid $blue;
+  color: white;
+  font-family: $font-family-heading;
+
+  &:hover,
+  &:focus {
+    background-color: darken($blue, 10%);
+    border-color: darken($blue, 10%);
+    color: white;
+  }
 }

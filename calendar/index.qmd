@@ -3,6 +3,7 @@ title: Calendar
 listing: 
   type: table
   contents: events.yaml
+  sort: "date"
   fields: [title, description, date, time, path, filename]
   field-display-names:
     date: Date
@@ -10,5 +11,4 @@ listing:
     title: Title
     description: Description
     path: Join
-    filename: Add to Calendar
 ---
