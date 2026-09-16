@@ -5,6 +5,7 @@ title: djehuty community website
 theme: code-cafe.scss
 
 website: 
+  favicon: assets/img/logo.png
   navbar: 
     logo: assets/img/logo.png
     right: 

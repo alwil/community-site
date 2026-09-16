@@ -1,6 +1,4 @@
 ---
-website:
-  favicon: logo.png
 about: 
   id: hero
   template: solana
@@ -9,8 +7,8 @@ about:
   links: 
     - text: GitHub
       icon: github
-      aria-label: Link to Code Cafe NL GitHub organisation
-      href: https://github.com/code-cafe-nl
+      aria-label: Link to djehuty community site
+      href: https://github.com/alwil/community-site
 listing: 
   id: next
   template: calendar/next-event.ejs
@@ -19,10 +17,14 @@ listing:
 ---
 
 ::: {#hero}
-<i class="nf nf-md-duck"></i> Welcome to our programming cafe. We do some cool stuff here.
+## Welcome to the `djehuty` Community.
+
+A space for users, contributors, and stakeholders to connect, share ideas, discuss upcoming work, and help shape the future of [`djehuty`](https://github.com/4TUResearchData/djehuty). Whether you're exploring the platform, contributing code, or providing feedback, you're welcome to join the conversation.
+
+**Get involved**: Join our Community Hours, participate in [discussions](https://github.com/4TUResearchData/djehuty/discussions), or explore ways to contribute.
 :::
 
-## <i class="nf nf-md-calendar"></i> Next meeting {style="border-bottom: none;"}
+## <i class="nf nf-md-calendar"></i> Next Community Hour {style="border-bottom: none;"}
 
 ::: {#next}
 :::
